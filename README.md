@@ -1,4 +1,4 @@
-🎵 Exploratory Data Analysis (EDA) on Music Tracks
+🎵 Exploratory Data Analysis (EDA) on Music Tracks:
 This project performs an in-depth exploratory data analysis on a dataset of music tracks to uncover insights about tracks, trends, and artist patterns.
 
 The dataset contains information about various music tracks including:
